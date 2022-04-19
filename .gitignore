@@ -4,3 +4,5 @@ node_modules
 
 # ignore the docs folder in branch bob
 docs/
+
+# Ich habe einfach einen weiteren Kommentar hinzugefügt
